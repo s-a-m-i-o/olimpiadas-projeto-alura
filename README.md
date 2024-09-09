@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Pesquisa de Atletas**
+## ** Projeto de Pesquisa de Atletas - imersão alura com google gemini**
 
 ### **O que faz essa aplicação?**
 
